@@ -42,8 +42,4 @@ const car = {
   
   console.log("Информация об автомобиле:", car.getCarInfo());
   
-  for (let key in car) {
-    if (car.hasOwnProperty(key)) {
-      console.log(`Ключ: ${key}, Значение: ${car[key]}`);
-    }
-  }
+  
