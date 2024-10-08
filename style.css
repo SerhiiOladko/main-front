@@ -38,7 +38,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: rgb(184, 129, 232);
+  background-color: rgb(37, 4, 63);
   border-radius: 5px;
   cursor: pointer;
 }
@@ -48,7 +48,7 @@
 }
 
 .gridContainer .gridContainer_home {
-  background-color: rgb(255, 157, 65);
+  background-color: rgb(202, 20, 111);
 }
 
 .gridContainer .gridContainer_home:hover {
